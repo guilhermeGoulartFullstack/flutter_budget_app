@@ -5,3 +5,7 @@ The goal was to create a in-house app where the staff can register the customer'
 The app was builded to real use, that's the reason that it's in Portuguese. The objective is to, over time, improve every aspect of it, including more features, better design and UX, fixing any potential bugs. 
 
 Developed using only Flutter\Dart, with tools like MobX and GetX and uses the Firebase Firestore to retain all data provided.
+
+Video showing a preview of the app:
+
+https://www.youtube.com/shorts/ODY_S6XkxwQ
